@@ -1,4 +1,6 @@
-## PLayo Nuxt YouTube Music Player
+## Playo Nuxt YouTube Music Player
+
+![banner](https://raw.githubusercontent.com/2105789/Playo/master/Banner.png)
 
 This is a simple music player application built using Nuxt.js and the YouTube IFrame Player API. It allows you to search for music videos on YouTube, queue them up, and play them back seamlessly without ads.
 
